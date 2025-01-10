@@ -1,0 +1,14 @@
+Lego,123,Plastic,2.0,1
+Kindred,3-Hole Double Bowl,Stainless Steel,149.99,2
+Kraus,Dual Mount 33 inch 2-Hole ,Granite,399.0,3
+Evil Sinks,Evil Model,Evil Material,1300000.0,4
+Green Brand,Green Model,Grass,1230.0,5
+Freaky Sink,Joe Biden,那天,4.0,6
+Glacier Bay,Pedestal,Ceramic,134.0,7
+Glacier Bay,Retro Single Bowl ,Ceramic,69.99,8
+Sjnkajs,Sdnd,q3r,5.0,9
+Hampton Bay,Shaker Style,Stainless Steel ,387.0,10
+Blanco,Single Bowl Drop-in,White Ceramic,769.0,11
+China Sinks inc.,Standard Double Basin,那天,120.0,12
+Kraus,Undermount Single Basin,Granite Composite,364.0,13
+Vida Sink,Professor,Paper,3.0,14
